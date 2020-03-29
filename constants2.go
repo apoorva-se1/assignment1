@@ -2,7 +2,7 @@ package assignment
 
 import "fmt"
 
-func Constants() {
+func Constants2() {
 	var a int = 21
 	var b int = 10
 	var c int
